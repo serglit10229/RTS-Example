@@ -12,6 +12,7 @@ PluginImporter:
   - first:
       Any: 
     second:
+<<<<<<< HEAD
       enabled: 0
       settings: {}
   - first:
@@ -26,6 +27,10 @@ PluginImporter:
       enabled: 0
       settings:
         CPU: AnyCPU
+=======
+      enabled: 1
+      settings: {}
+>>>>>>> 2056488c9e876607d4d49d03ed540f05cbcb64e9
   userData: 
   assetBundleName: 
   assetBundleVariant: 
