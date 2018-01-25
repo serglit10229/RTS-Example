@@ -1,4 +1,4 @@
 #pragma strict
 
-public class Spider extends MilitaryUnit{
+public class Spider extends MilitaryUnit {
 }
